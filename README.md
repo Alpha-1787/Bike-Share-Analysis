@@ -1,2 +1,2 @@
 # Bike-Share-Analysis
-Analysis of Bike Share Trips
+Exploratory data analysis of Ford Go Bike Share Trips
